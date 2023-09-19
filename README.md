@@ -11,4 +11,5 @@
 Чтобы изучить материал пройдите по [ссылке](https://nbviewer.org/github/catlordd/DataCleaningProject/blob/54ee6a27eb031e4c386deee8898ba828ee43c7b7/Project-1.ipynb) или скачайте [Project-1.ipynb](https://github.com/catlordd/DataCleaningProject/blob/alex/Project-1.ipynb).
 
 [Исходный датасет](https://drive.google.com/file/d/1WgsOMvpUFzZTNIEfgR0_c7nPKnpIfIgS/view?usp=sharing)
+
 [Обработанный датасет](https://drive.google.com/file/d/1JxzsZlLkUzggNHB9FDK7THKpHLMfDUM8/view?usp=sharing)

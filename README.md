@@ -10,3 +10,4 @@ DataCleaningProject
 
 Проект написан на языке программирования Python c использованием библиотек pandas 1.5.2, numpy 1.26.0, plotly.express 5.13.0, plotly.graph_objs 5.13.0.
 
+Чтобы изучить материал пройдите по [ссылке](https://nbviewer.org/github/catlordd/DataCleaningProject/blob/54ee6a27eb031e4c386deee8898ba828ee43c7b7/Project-1.ipynb) или скачайте [Project-1.ipynb)](https://github.com/catlordd/DataCleaningProject/blob/alex/Project-1.ipynb).
